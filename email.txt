@@ -1,0 +1,5 @@
+To: CEO
+From: Security Officer
+Subject: URGENT - Security Patch
+
+Ma, we have patched the firewall vulnerability successfully and sent the launch passsword to Samuel.
