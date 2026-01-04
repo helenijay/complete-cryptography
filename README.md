@@ -1,5 +1,5 @@
 # Applied Cryptography in Real-World Scenarios 
-**Capstone Project**
+
 
 ##  Project Overview
 This project simulates the role of a **Lead Security Officer** at *Nexus Dynamics*, a financial firm. The objective was to demonstrate the practical application of cryptographic primitives to secure corporate data against specific threats such as physical theft, insider fraud, and network sniffing.
@@ -54,9 +54,10 @@ File Locking: Encountered OS-level file locking issues when trying to encrypt op
 
 Key Management: Practical experience in handling Public vs. Private keys is critical; losing a Private Key means permanent data loss.
 
-📂 Repository Contents
+Repository Contents
 User Guide: Step-by-step documentation on encryption/hashing procedures.
 
-Evidence Screenshots: Proof of successful command execution for all scenarios.
+Evidence Screenshots: https://docs.google.com/document/d/1UzXPa88Nr6BBdjqF_ZTYBT0je7yzeuz1IJXuqICREzY/edit?usp=drive_link
+https://docs.google.com/presentation/d/1OOl1pTN426pEEVsqRiw1QG4BFIg4x3MX/edit?usp=drive_link&ouid=117641853008852879405&rtpof=true&sd=true
 
-Presentation: Summary slides of the project methodology.
+
