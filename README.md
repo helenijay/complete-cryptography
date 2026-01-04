@@ -1,6 +1,10 @@
 # Applied Cryptography in Real-World Scenarios 
 
 
+project links: https://docs.google.com/document/d/1UzXPa88Nr6BBdjqF_ZTYBT0je7yzeuz1IJXuqICREzY/edit?usp=drive_link
+https://docs.google.com/presentation/d/1OOl1pTN426pEEVsqRiw1QG4BFIg4x3MX/edit?usp=drive_link&ouid=117641853008852879405&rtpof=true&sd=true
+
+
 ##  Project Overview
 This project simulates the role of a **Lead Security Officer** at *Nexus Dynamics*, a financial firm. The objective was to demonstrate the practical application of cryptographic primitives to secure corporate data against specific threats such as physical theft, insider fraud, and network sniffing.
 
@@ -59,5 +63,6 @@ User Guide: Step-by-step documentation on encryption/hashing procedures.
 
 Evidence Screenshots: https://docs.google.com/document/d/1UzXPa88Nr6BBdjqF_ZTYBT0je7yzeuz1IJXuqICREzY/edit?usp=drive_link
 https://docs.google.com/presentation/d/1OOl1pTN426pEEVsqRiw1QG4BFIg4x3MX/edit?usp=drive_link&ouid=117641853008852879405&rtpof=true&sd=true
+
 
 
